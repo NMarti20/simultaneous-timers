@@ -1,0 +1,19 @@
+.timer {
+  &__form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__label {
+    font-size: 1.25rem;
+    margin: 0.25rem 0;
+  }
+
+  &__insert {
+    width: 10rem;
+  }
+
+  &__btn {
+    margin-top: 1rem;
+  }
+}

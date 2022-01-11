@@ -1,0 +1,22 @@
+.timerPosted {
+  &__time {
+    font-size: 2rem;
+    margin: 0.313rem 0;
+  }
+
+  &__name {
+    font-size: 2.5rem;
+    margin: 0.313rem 0;
+  }
+}
+
+button {
+  background-color: #65577e;
+  border: solid 0.063rem transparent;
+  border-radius: 0.25rem;
+  padding: 0.625rem 1.25rem;
+  color: #ffffff;
+  font-size: 1.25rem;
+  margin: 0 0.313rem;
+  cursor: pointer;
+}

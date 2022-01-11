@@ -1,0 +1,12 @@
+.header {
+  background-color: #cdb7f6;
+  height: 5rem;
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+
+  &__title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.8rem;
+    padding: 1.4rem 4rem;
+  }
+}
